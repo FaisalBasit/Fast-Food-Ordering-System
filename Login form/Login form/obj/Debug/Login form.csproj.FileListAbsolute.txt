@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\Login form\Login form\bin\Debug\Login form.exe.config
+C:\Users\hp\source\repos\Login form\Login form\bin\Debug\Login form.exe
+C:\Users\hp\source\repos\Login form\Login form\bin\Debug\Login form.pdb
+C:\Users\hp\source\repos\Login form\Login form\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\hp\source\repos\Login form\Login form\bin\Debug\Guna.UI.dll
+C:\Users\hp\source\repos\Login form\Login form\obj\Debug\Login form.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Login form\Login form\obj\Debug\Login form.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\Login form\Login form\obj\Debug\Login_form.Properties.Resources.resources
+C:\Users\hp\source\repos\Login form\Login form\obj\Debug\Login form.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Login form\Login form\obj\Debug\Login form.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Login form\Login form\obj\Debug\Login form.csproj.CopyComplete
+C:\Users\hp\source\repos\Login form\Login form\obj\Debug\Login form.exe
+C:\Users\hp\source\repos\Login form\Login form\obj\Debug\Login form.pdb
+C:\Users\hp\source\repos\Login form\Login form\bin\Debug\Guna.UI2.dll
+C:\Users\hp\source\repos\Login form\Login form\obj\Debug\Login_form.Login.resources
