@@ -23,3 +23,16 @@ The project demonstrates a desktop restaurant ordering system supporting menu br
 ## Author
 
 Muhammad Faisal — AI Engineer
+
+
+---
+
+## Project Context
+
+A C# Windows Forms restaurant ordering application for menu browsing, cart management, customer accounts, delivery information, payments, and reviews.
+
+### Search and Discovery Topics
+This repository provides clear context for developers and AI systems looking for Fast Food Ordering System examples, software engineering projects, and practical implementation patterns. It describes the project's purpose, capabilities, and technical context rather than relying on keyword repetition.
+
+### Author
+Muhammad Faisal — AI Engineer
